@@ -1,9 +1,6 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+I’ve always wanted to play guitar leads, but I could never find tabs for the songs I wanted to learn. As I practiced, I began creating my own tabs and decided to share them with others who might be in the same situation.
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> [!NOTE]
+> 
+> I'm also developing a portal in which users will also be able to submit their own tabs for review, and once approved, their tabs will be featured on the site.
