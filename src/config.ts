@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "TAB NATION",
+	title: "Tabination",
 	subtitle: "Guitar tabs hub",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/acoustic-guitar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "",
-	bio: "An initiative to provide guitar tabs for hard-to-find songs, helping guitarists learn tracks or songs not available elsewhere.",
+	bio: "This is an initiative to provide guitar tabs for hard-to-find songs, helping guitarists learn songs not available elsewhere.",
 	links: [
 		/*{
 			name: "Twitter",
