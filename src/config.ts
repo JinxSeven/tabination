@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/acoustic-guitar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "",
-	bio: "This is an initiative to provide guitar tabs for hard-to-find songs, helping guitarists learn songs not available elsewhere.",
+	bio: "An open initiative to provide guitar tabs for hard-to-find songs, helping guitarists learn songs not available elsewhere.",
 	links: [
 		/*{
 			name: "Twitter",
