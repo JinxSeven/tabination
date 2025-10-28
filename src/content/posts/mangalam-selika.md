@@ -3,8 +3,8 @@ title: Mangalam Selika
 published: 2025-10-25
 description: 'A classic tamil christian wedding song'
 image: ''
-tags: []
-category: ''
+tags: [Tamil, Christian, Wedding]
+category: 'Classic'
 draft: false 
 lang: ''
 ---
@@ -49,7 +49,7 @@ E |-----------------------------|
 ```
 
 ```song-lyrics
- மங்களம் செழிக்க கிருபை
+மங்களம் செழிக்க கிருபை
 அருளும் மங்கள நாதனே
 
 1. மங்கள நித்திய மங்கள நீ
